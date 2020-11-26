@@ -3,7 +3,7 @@
 ## About me
 I am a Crypto Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I obtained both my B.Sc. and M.Sc. degrees in Mathematics from the University of Bucharest. 
 
-My interests range from studying hardness lattice problems to applications of lattices in cryptography, such as lattice-based homomorphic encryption schemes. 
+My research interests range from studying hardness lattice problems to applications of lattices in cryptography, such as lattice-based homomorphic encryption schemes. 
 
 **Contact:** madalinabolboceanu 'at' gmail 'dot' com
 
