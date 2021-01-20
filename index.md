@@ -8,7 +8,7 @@ My research interests range from studying hardness lattice problems to applicati
 **Contact:** madalinabolboceanu 'at' gmail 'dot' com
 
 ## Publications
-- [*Order-LWE and the Hardness of Ring-LWE with Entropic Secrets*](https://eprint.iacr.org/2018/494.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/), Renen Perlman and [Devika Sharma](https://www.weizmann.ac.il/pages/search/people?language=english&single=1&person_id=63146). In the proceedings of [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/).
+- [*Order-LWE and the Hardness of Ring-LWE with Entropic Secrets*](https://eprint.iacr.org/2018/494.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/), Renen Perlman and [Devika Sharma](https://dblp.org/pid/253/4077.html). In the proceedings of [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/).
 - [*Relating different Polynomial-LWE problems*](https://eprint.iacr.org/2018/1035.pdf). In the proceedings of [SecITC 2018](https://link.springer.com/book/10.1007/978-3-030-12942-2).
 
 ## Talks
