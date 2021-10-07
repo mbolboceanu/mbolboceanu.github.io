@@ -3,9 +3,9 @@
 ## About me
 I am a Crypto Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I obtained both my B.Sc. and M.Sc. degrees in Mathematics from the University of Bucharest. 
 
-My research interests range from studying hardness lattice problems to applications of lattices in cryptography, such as lattice-based homomorphic encryption schemes. 
+I am interested in applications of lattices in cryptography, particularly in studying homomorphic encryption schemes and their security foundations, and more broadly, in computations on encrypted data. 
 
-**Contact:** madalinabolboceanu 'at' gmail 'dot' com
+**Contact:** madalinabolboceanu 'at' gmail 'dot' com.
 
 ## Publications
 - [*Order-LWE and the Hardness of Ring-LWE with Entropic Secrets*](https://eprint.iacr.org/2018/494.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/), Renen Perlman and [Devika Sharma](https://dblp.org/pid/253/4077.html). In the proceedings of [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/).
