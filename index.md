@@ -1,7 +1,7 @@
 # Welcome to my website!
 
 ## About me
-I am a Crypto Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I obtained both my B.Sc. and M.Sc. degrees in Mathematics from the University of Bucharest. 
+I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I obtained both my B.Sc. and M.Sc. degrees in Mathematics from the University of Bucharest. 
 
 I am interested in applications of lattices in cryptography, particularly in studying homomorphic encryption schemes and their security foundations, and more broadly, in computations on encrypted data. 
 
