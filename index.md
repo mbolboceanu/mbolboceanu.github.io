@@ -10,6 +10,7 @@ I am interested in applications of lattices in cryptography, particularly in stu
 - [*Relating different Polynomial-LWE problems*](https://eprint.iacr.org/2018/1035.pdf). In the proceedings of [SecITC 2018](https://link.springer.com/book/10.1007/978-3-030-12942-2).
 
 ## Talks
+- 23/03/2022: *Private Set Intersection*, Workshop on Selected Topics in Cryptography, Sinaia, Romania. [*Slides*](https://mbolboceanu.github.io/talks/Private-Set-Intersection.pdf)
 - 22/01/2020: *Post-quantum cryptography*, Bitdefender TechDays 2020, Bucharest, Romania. [*Slides*](https://mbolboceanu.github.io/talks/post-quantum-crypto.pdf)
 - 2/07/2019: *Lattices in the context of post-quantum crypto*, [The Ninth Congress of Romanian Mathematicians](https://sites.google.com/view/congmatro9/home), Galati, Romania. [*Slides*](https://mbolboceanu.github.io/talks/context-of-pq-crypto.pdf)
 - 9/11/2018: *Relating different Polynomial-LWE problems*, [SecITC 2018](https://link.springer.com/book/10.1007/978-3-030-12942-2), Bucharest, Romania. [*Slides*](https://mbolboceanu.github.io/talks/Relating-Polynomial-LWE-problems-slides.pdf)
