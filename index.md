@@ -5,7 +5,8 @@ I am interested in applications of lattices in cryptography, particularly in stu
 
 **Contact:** madalinabolboceanu 'at' gmail 'dot' com.
 
-## Publications
+## Papers
+- [*Designs for practical SHE schemes based on Ring-LWR*](https://eprint.iacr.org/2024/960.pdf), with [Anamaria Costache](https://anamariacostache.github.io/anamariacostache/), [Erin Hales](https://pure.royalholloway.ac.uk/en/persons/erin-hales), [Rachel Player](https://rachelplayer.github.io/), [Miruna Rosca](https://mirunarosca.github.io/) and Radu Titiu. Talk accepted at [fhe.org 2024](https://fhe.org/conferences/conference-2024/).
 - [*On algebraic embedding for unstructured lattices*](https://eprint.iacr.org/2021/053.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/) and [Devika Sharma](https://www.linkedin.com/in/devika-sharma-3529a4164/?originalSubdomain=il). In the proceedings of [PKC 2024](https://pkc.iacr.org/2024/).
 - [*Order-LWE and the Hardness of Ring-LWE with Entropic Secrets*](https://eprint.iacr.org/2018/494.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/), Renen Perlman and [Devika Sharma](https://www.linkedin.com/in/devika-sharma-3529a4164/?originalSubdomain=il). In the proceedings of [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/).
 - [*Relating different Polynomial-LWE problems*](https://eprint.iacr.org/2018/1035.pdf). In the proceedings of [SecITC 2018](https://link.springer.com/book/10.1007/978-3-030-12942-2).
