@@ -1,7 +1,7 @@
 ## About me
-I am a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I obtained both my B.Sc. and M.Sc. degrees in Mathematics from the University of Bucharest. 
+I am PhD student at IBM Research Zürich and University of Potsdam, supervised by [*Dr. Vadim Lyubashevksy*](https://research.ibm.com/people/vadim-lyubashevsky) and [*Prof. Dr. Anja Lehmann*](https://hpi.de/lehmann/team/anja-lehmann.html). My main research interests include lattice-based cryptography and zero-knowledge proofs.
 
-I am interested in applications of lattices in cryptography, particularly in studying homomorphic encryption schemes and their security foundations, and more broadly, in computations on encrypted data. 
+Previously, I was a Cryptography Researcher at [Bitdefender](https://www.bitdefender.com/), Romania. I obtained both my B.Sc. and M.Sc. degrees in Mathematics from the University of Bucharest. 
 
 **Contact:** madalinabolboceanu 'at' gmail 'dot' com.
 
