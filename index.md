@@ -6,6 +6,7 @@ Previously, I was a Cryptography Researcher at [Bitdefender](https://www.bitdefe
 **Contact:** madalinabolboceanu 'at' gmail 'dot' com.
 
 ## Papers
+- [*Orthus: Practical Sublinear Batch-Verification of Lattice Relations from Standard Assumptions*](https://eprint.iacr.org/2026/398.pdf), with [Jonathan Bootle](https://jbootle.github.io/), [Antonio Merino-Gallardo](https://antonio.m-g.es/), [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky) and Gregor Seiler. In the proceedings of [Crypto 2026](https://crypto.iacr.org/2026/), to appear.
 - [*Designs for practical SHE schemes based on Ring-LWR*](https://eprint.iacr.org/2024/960.pdf), with [Anamaria Costache](https://anamariacostache.github.io/anamariacostache/), [Erin Hales](https://pure.royalholloway.ac.uk/en/persons/erin-hales), [Rachel Player](https://rachelplayer.github.io/), [Miruna Rosca](https://mirunarosca.github.io/) and Radu Titiu. Talk accepted at [fhe.org 2024](https://fhe.org/conferences/conference-2024/). IACR Communications in Cryptology. Volume 2, No.2, 2025.
 - [*On algebraic embedding for unstructured lattices*](https://eprint.iacr.org/2021/053.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/) and [Devika Sharma](https://www.linkedin.com/in/devika-sharma-3529a4164/?originalSubdomain=il). In the proceedings of [PKC 2024](https://pkc.iacr.org/2024/).
 - [*Order-LWE and the Hardness of Ring-LWE with Entropic Secrets*](https://eprint.iacr.org/2018/494.pdf), with [Zvika Brakerski](https://zvikab.bitbucket.io/), Renen Perlman and [Devika Sharma](https://www.linkedin.com/in/devika-sharma-3529a4164/?originalSubdomain=il). In the proceedings of [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/).
@@ -18,7 +19,7 @@ Previously, I was a Cryptography Researcher at [Bitdefender](https://www.bitdefe
 - 2/07/2019: *Lattices in the context of post-quantum crypto*, [The Ninth Congress of Romanian Mathematicians](https://sites.google.com/view/congmatro9/home), Galati, Romania. [*Slides*](https://mbolboceanu.github.io/talks/context-of-pq-crypto.pdf)
 - 9/11/2018: *Relating different Polynomial-LWE problems*, [SecITC 2018](https://link.springer.com/book/10.1007/978-3-030-12942-2), Bucharest, Romania. [*Slides*](https://mbolboceanu.github.io/talks/Relating-Polynomial-LWE-problems-slides.pdf)
 
-## More
-Together with my colleagues from Bitdefender, we wrote two blogposts:
-- [*Homomorphic Encryption: a Toy Implementation in Python*](https://bit-ml.github.io/blog/post/homomorphic-encryption-toy-implementation-in-python/)
-- [*Private Set Intersection from Homomorphic Encryption: A Python Implementation*](https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-in-python/)
+%## More
+%Together with my colleagues from Bitdefender, we wrote two blogposts:
+%- [*Homomorphic Encryption: a Toy Implementation in Python*](https://bit-ml.github.io/blog/post/homomorphic-encryption-toy-implementation-in-python/)
+%- [*Private Set Intersection from Homomorphic Encryption: A Python Implementation*](https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-%in-python/)
