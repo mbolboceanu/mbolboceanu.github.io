@@ -19,7 +19,7 @@ Previously, I was a Cryptography Researcher at [Bitdefender](https://www.bitdefe
 - 2/07/2019: *Lattices in the context of post-quantum crypto*, [The Ninth Congress of Romanian Mathematicians](https://sites.google.com/view/congmatro9/home), Galati, Romania. [*Slides*](https://mbolboceanu.github.io/talks/context-of-pq-crypto.pdf)
 - 9/11/2018: *Relating different Polynomial-LWE problems*, [SecITC 2018](https://link.springer.com/book/10.1007/978-3-030-12942-2), Bucharest, Romania. [*Slides*](https://mbolboceanu.github.io/talks/Relating-Polynomial-LWE-problems-slides.pdf)
 
-%## More
+<!--## More
 %Together with my colleagues from Bitdefender, we wrote two blogposts:
 %- [*Homomorphic Encryption: a Toy Implementation in Python*](https://bit-ml.github.io/blog/post/homomorphic-encryption-toy-implementation-in-python/)
-%- [*Private Set Intersection from Homomorphic Encryption: A Python Implementation*](https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-%in-python/)
+%- [*Private Set Intersection from Homomorphic Encryption: A Python Implementation*](https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-%in-python/)-->
